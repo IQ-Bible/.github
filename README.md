@@ -8,4 +8,4 @@ Visit [iqbible.com](https://iqbible.com) to learn more, see demos, and download.
 
 ## Support
 
-Please open an [issue](https://github.com/iqbible/advanced-study-bible-wordpress-plugin/issues) in the appropriate repo for bug reports or feedback.
+Please open an [issue](https://github.com/IQ-Bible/advanced-study-bible-wordpress-plugin/issues) in the appropriate repo for bug reports or feedback.
